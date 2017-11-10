@@ -1,0 +1,16 @@
+.yellow, .gray{
+  height: 100px;
+  width: 200px;
+  margin: 10px;
+  padding: 10px;
+}
+/* como tienen distinto color no lo agrego en la sección de arriba*/
+
+.yellow {
+  background: #f9cc5f;
+}
+
+.gray {
+  background: #2B2B2B;
+  color: #ffffff
+}
